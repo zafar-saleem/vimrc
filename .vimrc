@@ -20,6 +20,9 @@ Plugin 'einars/js-beautify'
 Plugin 'scrooloose/nerdtree'
 Plugin 'pangloss/vim-javascript'
 Plugin 'wincent/command-t'
+Plugin 'JulesWang/css.vim' " only necessary if your Vim version < 7.4
+Plugin 'cakebaker/scss-syntax.vim'
+Plugin 'elzr/vim-json'
 "
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
