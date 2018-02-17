@@ -28,6 +28,8 @@ Plugin 'mattn/emmet-vim'
 Plugin 'terryma/vim-multiple-cursors'
 Plugin 'leafgarland/typescript-vim'
 Plugin 'jason0x43/vim-js-indent'
+Plugin 'szw/vim-g'
+Plugin 'scrooloose/nerdcommenter'
 "
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
