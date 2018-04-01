@@ -89,3 +89,5 @@ set laststatus=2
 let g:airline_powerline_fonts = 1
 
 let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|git'
+
+set mouse=a
